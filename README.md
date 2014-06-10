@@ -1,4 +1,12 @@
-New_test
-========
+$ mkdir ~/Hello-World
+# Creates a directory for your project called "Hello-World" in your user directory
 
-Making a test Repo
+$ cd ~/Hello-World
+# Changes the current working directory to your newly created directory
+
+$ git init
+# Sets up the necessary Git files
+# Initialized empty Git repository in /Users/dtylor11/Hello-World/.git/
+
+$ touch README
+# Creates a file called "README" in your Hello-World directory
